@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdalla Bakri - Biomedical Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background: #007bff;
+            color: white;
+            border-radius: 8px 8px 0 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            margin: 20px 0;
+        }
+        h2 {
+            color: #007bff;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+            padding: 10px;
+            background: #f4f4f9;
+            border-left: 4px solid #007bff;
+        }
+        .contact {
+            background: #007bff;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-radius: 0 0 8px 8px;
+        }
+        .contact a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Abdalla Bakri Abdalla</h1>
+            <p>Biomedical Engineer</p>
+        </header>
+
+        <section>
+            <h2>Objective</h2>
+            <p>To leverage my biomedical engineering skills and market understanding to become a professional biomedical engineer and bring value to customers.</p>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Higher Institute of Biomedical Engineering and Systems, El-Sherouk Academy</strong><br>September 2018 - July 2023 | Grade: Good</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Work Experience</h2>
+            <ul>
+                <li><strong>Technology Valley Medical Supplies (TV-MS)</strong><br>July 2020 - August 2020<br>Biomedical Sales Engineer: Surveyed hospitals, established maintenance agreements, and supplied accessories for endoscopy units.</li>
+                <li><strong>Al-Arabiya for Biomedical Engineering (ABE)</strong><br>February 2024 - Present<br>Biomedical Sales Engineer: Studied ultrasound brands, conducted demos, and managed contracts and supplies for ultrasound equipment.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Courses</h2>
+            <ul>
+                <li>GIT Endoscopy Course (50 hours) - 2020</li>
+                <li>Basics of Python Programming (Coursera) - 2020</li>
+                <li>ICU Training (El-Fayoum General Hospital) - 2020</li>
+                <li>Radiation Unit Training (El-Fayoum General Hospital) - 2021</li>
+                <li>Entrepreneurship & Innovation (InnoveEgypt) - 2022</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Honors & Awards</h2>
+            <ul>
+                <li>Excellent grade in Graduation Project</li>
+                <li>Project registered at the Egyptian Patent Office</li>
+                <li>Funded by ITIDA</li>
+                <li>Best Idea in Menouf 2023 Graduation Project Competition</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Electronics projects</li>
+                <li>Teamwork</li>
+                <li>Sales & Negotiation</li>
+                <li>Presentation skills</li>
+                <li>Microsoft Office (Excel, Word, PowerPoint)</li>
+                <li>Communication and Critical Thinking</li>
+                <li>Problem-solving and Innovation</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Languages</h2>
+            <ul>
+                <li>Arabic: Native</li>
+                <li>English: Intermediate</li>
+            </ul>
+        </section>
+
+        <div class="contact">
+            <p>Contact: <a href="mailto:eng.abdallah2023@gmail.com">eng.abdallah2023@gmail.com</a> | <a href="http://www.linkedin.com/in/abdalla-bakri-475212295">LinkedIn Profile</a></p>
+        </div>
+    </div>
+</body>
+</html>
